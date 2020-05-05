@@ -1,1 +1,1 @@
-console.error(ERROR 404)
+console.error(ERROR)
